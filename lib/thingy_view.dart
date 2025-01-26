@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:summerschool_tutorial/agent.dart';
+import 'package:summerschool_tutorial/thingy_agent.dart';
+import 'package:summerschool_tutorial/thingy_manager.dart';
 import 'package:summerschool_tutorial/thingylib.dart';
 
 class ThingyDataView extends StatelessWidget {
