@@ -5,7 +5,6 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter_blue_plus/flutter_blue_plus.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
 import 'package:summerschool_tutorial/model_viewer.dart';
-import 'package:summerschool_tutorial/thingy_view.dart';
 
 final InAppLocalhostServer localhostServer = InAppLocalhostServer();
 
@@ -38,7 +37,6 @@ class MyApp extends StatelessWidget {
           child: Column(
             children: [
               Flexible(flex: 2, child: ModelViewer()),
-              ThingyDataView()
             ],
           ),
         ),
