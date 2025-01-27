@@ -41,3 +41,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+assets/3d/.parcel-cache/
+assets/3d/dist/
