@@ -81,27 +81,7 @@
 ---
 
 ### 🎯 Next Steps
-- **Run a Sample App**:
-  ```sh
-  flutter create my_app
-  cd my_app
-  flutter run
-  ```
-- **Configure IDE**:
-  - Install Flutter & Dart plugins for **VS Code** or **Android Studio**.
 
-For more details, check the [official documentation](https://docs.flutter.dev/get-started/install).
-
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Run flutter pub get
+- Run the project main.dart
+- Voila
